@@ -42,16 +42,4 @@ Return true/false to indicate how the server works
 
 
 
-- e.g. `npm start`
 
-#### How to use your library (where applicable)
-
-#### Tests
-
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
-
-#### UML
-
-Link to an image of the UML for your application and response to events
